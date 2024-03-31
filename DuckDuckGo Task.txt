@@ -1,0 +1,5 @@
+DuckDuckGo Calling search API
+ 
+https://serpapi.com/search.json?engine=duckduckgo&q=accelnomics&kl=us-en&api_key=c0ecea81eab8aa64d4a10a56658d1f66a58d78ba225b7dd69df969b6c891c4f6
+To get the api: https://serpapi.com/dashboard
+
